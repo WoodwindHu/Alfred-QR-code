@@ -1,6 +1,6 @@
 # Alfred-QR-code
 
-![](./屏幕快照 2019-07-11 下午2.45.59.png)
+![](https://github.com/WoodwindHu/Alfred-QR-code/preview.png)
 
 switch text to qr-code
 
@@ -17,8 +17,8 @@ pip3 install myqr
 
 
 
-![](./屏幕快照 2019-07-11 下午2.37.15.png)
+![](https://github.com/WoodwindHu/Alfred-QR-code/usage1.png)
 
 Double click on the Run Script widget, change `/usr/local/anaconda3/bin/myqr` to the path of myqr. 
 
-![](./屏幕快照 2019-07-11 下午2.42.19.png)
+![](https://github.com/WoodwindHu/Alfred-QR-code/usage2.png)
